@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="a1server:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/a1server_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="a1server" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Maven: com.google.code.gson:gson:2.9.0" />
+          <element id="library" level="project" name="Maven: org.apache.commons:commons-pool2:2.6.1" />
+          <element id="library" level="project" name="Maven: com.rabbitmq:amqp-client:5.14.2" />
+          <element id="library" level="project" name="Maven: org.slf4j:slf4j-api:1.7.32" />
+          <element id="library" level="project" name="Maven: commons-io:commons-io:2.11.0" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="a1server/web/Web" />
+    </root>
+  </artifact>
+</component>
