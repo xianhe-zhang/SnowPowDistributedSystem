@@ -1,4 +1,4 @@
-** Hi guys! Here are some bulletpoints of this project ** 
+__Hi guys! Here are some bulletpoints of this project:__
 
 The reference link: https://gortonator.github.io/bsds-6650/
 
